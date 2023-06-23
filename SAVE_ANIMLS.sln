@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAVE_ANIMLS", "SAVE_ANIMLS\SAVE_ANIMLS.csproj", "{2A805C49-85D9-47A3-8418-47A68ED99E4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A805C49-85D9-47A3-8418-47A68ED99E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A805C49-85D9-47A3-8418-47A68ED99E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A805C49-85D9-47A3-8418-47A68ED99E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A805C49-85D9-47A3-8418-47A68ED99E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {393E429E-7C52-408B-8C40-351C1F93A5A9}
+	EndGlobalSection
+EndGlobal
