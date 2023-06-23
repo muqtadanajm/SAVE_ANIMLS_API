@@ -361,3 +361,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/SAVE_ANIMLS/SAVE_ANIMLS.csproj
